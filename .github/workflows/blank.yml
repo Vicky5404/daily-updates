@@ -16,8 +16,8 @@ jobs:
       - name: Generate Deep Activity
         run: |
           # 1. Setup Identity (MANDATORY: Use your GitHub email)
-          git config --local user.email "rssharmakapro@gmail.com"
-          git config --local user.name "Ravi80595"
+          git config --local user.email "vickykapro54@gmail.com"
+          git config --local user.name "Vicky5404"
 
           # 2. Create directory for logs
           mkdir -p daily-logs
