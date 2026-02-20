@@ -1,5 +1,6 @@
 name: Dark Green Daily Log
-
+permissions:
+  contents: write
 on:
   schedule:
     # Runs at 04:30 UTC (10:00 AM IST) and 16:30 UTC (10:00 PM IST)
